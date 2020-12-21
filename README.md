@@ -1,5 +1,5 @@
-## Hello there 👋   
-My name's *Rennie*, welcome to my GitHub profile!   
+## Hello there! / مرحبا / வணக்கம்     
+My name's *Rennie*, welcome to my GitHub profile!      
 
 ![](https://github.com/rxnnae/rxnnae/blob/main/gifs%2C%20icons/shot09.gif)  
 📍I am a first year student studying in Vellore Institute of Technology, Vellore  
@@ -9,4 +9,4 @@ A little more about myself!
 💁‍♀️Pronouns:she/her   
 👩‍💻Currently learning: Python and Linux   
 😄Residing in: Abu Dhabi, United Arab Emirates    
-💭Random fact: Even though I lived in the UAE for 18 years, the only line I know how to speak is "Good morning, teacher!"
+💭Random fact: Even though I lived in the UAE for 18 years, the only line I know how to speak is **صباح الخير، أيها المعلم!** (which translates to "Good Morning, teacher!")
