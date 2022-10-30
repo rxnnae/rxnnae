@@ -1,9 +1,11 @@
 ## Hello there! / مرحبا / வணக்கம்     
-My name's *Rennie*, welcome to my GitHub profile!      
+My name's *Maria*, welcome to my GitHub profile!      
 
-<img src="https://github.com/rxnnae/rxnnae/blob/main/gifs%2C%20icons/shot09.gif" width="200" height="200"/>  
-📍I am a second year student studying in Vellore Institute of Technology, Vellore  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)   
+<img src= "https://github.com/rxnnae/rxnnae/blob/main/gifs%2C%20icons/shot09.gif" width="48">
+
+📍I am a pre-final year student studying in Vellore Institute of Technology, Vellore  
+
+[![Maria's github stats](https://github-readme-stats.vercel.app/api?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)       
 A little more about myself!       
 💁‍♀️Pronouns:she/her   
