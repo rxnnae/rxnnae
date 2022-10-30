@@ -1,7 +1,7 @@
 ## Hello there! / مرحبا / வணக்கம்     
 My name's *Rennie*, welcome to my GitHub profile!      
 
-![](https://github.com/rxnnae/rxnnae/blob/main/gifs%2C%20icons/shot09.gif)  
+![]<img src="https://github.com/rxnnae/rxnnae/blob/main/gifs%2C%20icons/shot09.gif" width="100" height="100"/>  
 📍I am a second year student studying in Vellore Institute of Technology, Vellore  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)       
