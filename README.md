@@ -6,9 +6,9 @@ My name's *Maria*, welcome to my GitHub profile!
 📍I am a nascent Salesforce developer, with knowledge in LWC, Aura, Apex and SOQL technologies. I have a strong background in programming languages such as C++ and Java, and a growing passion for everything cybersecurity!
 In my spare time, I like to branch out creatively - drawing, painting, crafting, and spend hours on open-world RPG games with immersive art styles and captivating story lines.
 
-[![Maria's github stats](https://github-readme-stats.vercel.app/api?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)  
+<!--[![Maria's github stats](https://github-readme-stats.vercel.app/api?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnnae&show_icons=true&theme=tokyonight)](https://github.com/rxnnae/github-readme-stats) -->     
 
 A little more about myself!       
 💁‍♀️Pronouns: she/her   
